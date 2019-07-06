@@ -1,0 +1,24 @@
+header {
+	background-color:#00004C;
+	padding: 40px;
+	text-align: center;
+	display: block;
+
+}
+h1 {
+	font-size: 90px;
+	color: #CC0000;
+	font-family: Arial, sans-serif;
+}
+
+header img {
+    border-radius: 178px;
+    width: 300px;
+    border: 24px solid #F6EB16;
+
+
+}
+/*<header>
+		<img src="img/gwtw.jpg">
+		<h1>Gone with the wind</h1>
+		</header>*/
