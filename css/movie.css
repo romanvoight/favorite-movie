@@ -20,16 +20,17 @@ header img {
     border-radius: 178px;
     width: 300px;
     border: 24px solid #F6EB16;
+    margin: auto;
 }
 
 
 .content {
-	max-width: 900x;
+	max-width: 900px;
 	margin: 0 auto;
 	padding: 0 20px;
 }
 
-.big-image {
+img.big-image {
 	max-width: 100%;
 }
 p.caption {
@@ -38,7 +39,7 @@ p.caption {
 	font-style: italic;
 }
 
-ul {
+ul 
 	list-style: none;
 	padding: 0;
 	margin-bottom: : 2px;
