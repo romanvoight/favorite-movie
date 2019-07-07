@@ -15,7 +15,10 @@ header img {
     border-radius: 178px;
     width: 300px;
     border: 24px solid #F6EB16;
+}
 
+.big-image {
+	width: 300px;
 
 }
 /*<header>
