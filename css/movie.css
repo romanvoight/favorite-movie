@@ -31,8 +31,10 @@ header img {
 }
 
 img.big-image {
-	max-width: 100%;
+	width: 900px;
+	height: 900px;
 }
+
 p.caption {
 	font-size: 16px;
 	color: red;
